@@ -108,7 +108,7 @@ Inside your .cat-head element, create a div element with the class cat-ears.
 
 ## Step 20
 
-Inside your .cat-ears element, create two div elements with the classes cat-left-ear and cat-right-ear respectively.
+Inside your >`.cat-ears` element, create two >`div` elements with the classes >`cat-left-ear` and >`cat-right-ear` respectively.
 
 
 
