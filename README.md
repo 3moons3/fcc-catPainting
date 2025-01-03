@@ -32,6 +32,21 @@ Back in your HTML, create a main element. Inside that main element, add a div el
 
 Using a class selector, give the .cat-head element a width of 205px and a height of 180px. Also, give it a border of 1px solid #000 and a border-radius of 46%.
 
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #c9d2fc;
+}
+
+.cat-head {width: 205px; height: 180px; border: 1px solid #000; border-radius: 46%;}
+
+
+
+
 ## Step 8
 
 To see the .cat-head element, give it a linear gradient background with #5e5e5e at 85% and #45454f at 100%.
